@@ -2,6 +2,7 @@
 This project is done under the BDMA first semester at Université Libre de Bruxelles
 
 ## Overview
+
 The project aims to understand the difference between using 
 different tools for same Database technology and why we
 should use one technology over another one 
