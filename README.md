@@ -39,7 +39,7 @@ as tools. <br>
 In order to run this project, you need to install [Elasticsearch](https://www.elastic.co/downloads/elasticsearch) 
 and also [Kibana](https://www.elastic.co/downloads/kibana) on your machine, more info about running Elasticsearch on [Windows](https://www.elastic.co/guide/en/kibana/current/windows.html) or [Linux/macOS](https://www.elastic.co/guide/en/kibana/current/targz.html).
 
-**_Note_**: Kibana is just for visualising the data in elasticsearch <br>
+<sub>**_Note_**:  Kibana is just for visualising the data in elasticsearch <br> </sub>
 
 
 ### Opensearch Setup 
