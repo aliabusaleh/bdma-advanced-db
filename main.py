@@ -10,7 +10,7 @@ from extract_info import start_extracting
 if __name__ == '__main__':
     print('Start processing ....')
     directory = 'C:\\Users\\aligh\\OneDrive\\Desktop\\ulb\\pdf_data\\test\\CVs\\'
-    output_file_name = "data.json"
+    output_file_name = "data/data.json"
     # start_extracting(directory=directory, output_file=output_file_name)
     load()
     print("finish processing")
