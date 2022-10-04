@@ -1,2 +1,3 @@
 resume_parser
 elasticsearch
+ijson

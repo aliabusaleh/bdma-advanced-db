@@ -1,4 +1,5 @@
 # This is a sample Python script.
+from elastic_search_loader import load
 from extract_info import start_extracting
 
 
@@ -10,6 +11,8 @@ if __name__ == '__main__':
     print('Start processing ....')
     directory = 'C:\\Users\\aligh\\OneDrive\\Desktop\\ulb\\pdf_data\\test\\CVs\\'
     output_file_name = "data.json"
-    start_extracting(directory=directory, output_file=output_file_name)
+    # start_extracting(directory=directory, output_file=output_file_name)
+    load()
     print("finish processing")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
